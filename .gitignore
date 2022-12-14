@@ -1,6 +1,8 @@
 #dev
 node_modules
-package-lock.json
+artifacts
+cache
+./package-lock.json
 
 #project
 .idea
